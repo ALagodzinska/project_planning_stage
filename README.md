@@ -14,3 +14,4 @@ I demonstrated that the data can be loaded into R. Did minimum data wrangling, c
 
 ## 4. Methods and Plan
 
+I proposed one method to address the question and explained why I chose it.
