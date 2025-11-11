@@ -7,3 +7,10 @@ I analyzed the given datasets and the provided variables. I explored the project
 ## 2. Questions
 
 I selected the broad questions and formulated a specific question for the project. I added description of how the data can help me to address this questions.
+
+## 3. Exploratory Data Analysis and Visualization
+
+I demonstrated that the data can be loaded into R. Did minimum data wrangling, computed mean values for players dataset. I created 3 exploratory visualization that explore the number of active players daily, by the day of the week, month and the time of the day.
+
+## 4. Methods and Plan
+
